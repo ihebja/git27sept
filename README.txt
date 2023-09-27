@@ -1,2 +1,2 @@
 # Documentation de mon projet HelloWorld
-ligne 2
+ligne 2(bug fix)
